@@ -1,6 +1,8 @@
 # cpp_memo
 C++ 学习
 
-# leetcode
+## todolist
 
-[leetcode](https://leetcode.com/problemset/all/)
+- [matrix multiplication](./algorithms/matrix_multiplication.md)
+
+- [next permutation](./algorithms/next_permutation.md)
