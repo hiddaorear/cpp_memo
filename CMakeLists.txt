@@ -4,4 +4,4 @@ project(cpp_memo)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_memo
-        hello.cpp)
+        hello.cpp CSAPP/hello.c CSAPP/csapp.c)
