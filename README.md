@@ -1,5 +1,5 @@
-# cpp_memo
-C++ 学习
+# C/C++ 学习
+
 
 ## todolist
 
